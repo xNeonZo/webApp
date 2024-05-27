@@ -1,4 +1,4 @@
-package com.example.webApp;
+package Product;
 
 import lombok.Data;
 import lombok.experimental.Accessors;
